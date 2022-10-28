@@ -66,5 +66,8 @@
   "bugs": {
     "url": "https://github.com/staticdeng/vuejs-loadmore/issues"
   },
-  "homepage": "https://github.com/staticdeng/vuejs-loadmore#readme"
+  "homepage": "https://github.com/staticdeng/vuejs-loadmore#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
