@@ -10,7 +10,3 @@ export default {
     // locale.use(options.lang);
   }
 }
-
-export {
-  locale
-}
